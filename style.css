@@ -34,6 +34,9 @@ button{
     transition:background-color 0.5s;
     font-weight: bold;
 }
+button:hover{
+    background-color: rgb(30, 30, 247);
+}
 .mypara{
     color: rgb(21 21 21);
     background-color: rgb(238 238 238);
